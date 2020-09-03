@@ -1,0 +1,6 @@
+﻿Cat
+dog
+horse
+Dolphin
+cow
+parrot
