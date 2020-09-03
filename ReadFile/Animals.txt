@@ -1,6 +1,6 @@
 ﻿Cat
-dog
-horse
+Dog
+Horse
 Dolphin
-cow
-parrot
+Cow
+Parrot
